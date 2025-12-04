@@ -3,6 +3,6 @@ This project is designed for Bin-Pick task with UR Robot and RealSense scanner. 
 
 # Update: 2 demo videos uploaded.
 
--1.grasping-workshop-demo.mp4
+1.grasping-workshop-demo.mp4
 
--2.UR5-6DPose-Grasp.mp4
+2.UR5-6DPose-Grasp.mp4
