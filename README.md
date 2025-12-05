@@ -1,4 +1,7 @@
 # OVE6D-UR-RealSense
+
+Original Project Name: **"Grasping of Bearing Workpieces Based on 3D Vision"**.
+
 This project is designed for Bin-Pick task with UR Robot and RealSense scanner. Demo and code will be released soon...
 
 # Update: 2 demo videos uploaded.
